@@ -29,6 +29,12 @@ Essa duplicação foi feita propositalmente para apresentar, além do conceito d
 
 ---
 
+<p align="center">
+  <img src="camera.gif" width="600">
+</p>
+
+---
+
 # 📋 Requisitos do projeto
 
 Antes de observar o código, é importante entender o que queremos que uma câmera faça.
